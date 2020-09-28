@@ -45,6 +45,11 @@ Despliegue:
 		java -jar nombredelarchivo.jar
 		El sistema desplegará la aplicación y esta quedara escuchando por el 
 		puerto 8080
+		
+	Nota:
+	
+		Este repositorio cuenta con una versión del archivo jar utilizable 
+		liberada en release
 
 
 Prueba:
