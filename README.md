@@ -76,3 +76,6 @@ URL cloud:
 
 	El URL para utilizar la aplicación desplegada en Heroku es:
 	https://fuegoquasar.herokuapp.com/fuegoQuasar
+	
+	GUI para probar servicios:
+	https://fuegoquasar.herokuapp.com/swagger-ui.html
