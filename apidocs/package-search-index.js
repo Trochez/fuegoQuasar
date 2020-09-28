@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.swagger.swagger"},{"l":"com.swagger.swagger.api"},{"l":"com.swagger.swagger.configurationsw"},{"l":"com.swagger.swagger.entity"},{"l":"com.swagger.swagger.operations"},{"l":"com.swagger.swagger.staticvars"}]
