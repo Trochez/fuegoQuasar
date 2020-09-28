@@ -7,8 +7,6 @@ package com.swagger.swagger.entity;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import javax.persistence.Entity;
-import javax.persistence.Id;
 
 /**
  *
@@ -18,11 +16,9 @@ import javax.persistence.Id;
  */
 
 @ApiModel("Model satelitePayload")
-@Entity
 public class satelitePayload {
     
     @ApiModelProperty(value = "the satelite's name", required = true)
-    @Id
     private String name;
     
     @ApiModelProperty(value = "the satelite's distance to emisor", required = true)
