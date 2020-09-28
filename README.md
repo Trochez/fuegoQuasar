@@ -32,8 +32,8 @@ Despliegue:
 	
 	Requerimientos:
 
-		Para desplegar la aplicación solo se necesita tener instalado un entorno java superior al 8 
-		con las variables de entorno definidas
+		Para desplegar la aplicación solo se necesita tener instalado un entorno java superior 
+		al 8 con las variables de entorno definidas
 
 	Procedimiento:
 	
