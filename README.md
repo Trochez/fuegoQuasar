@@ -75,3 +75,4 @@ URL cloud:
 	al desplegarse en la forma más básica.
 
 	El URL para utilizar la aplicación desplegada en Heroku es:
+	https://fuegoquasar.herokuapp.com/fuegoQuasar
