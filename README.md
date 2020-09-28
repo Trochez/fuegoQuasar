@@ -1,4 +1,4 @@
-Fuego Cuasar
+Fuego Quasar
 
 Esta es una herramienta clasificada desarrollada por las fuerzas rebeldes para detectar naves que envíen mensajes de auxilio
 
